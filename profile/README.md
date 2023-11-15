@@ -15,14 +15,3 @@ This is a GitHub organization for NIH-funded project "Improved arrhythmia ablati
   
 ## Acknowledgements
 The project is supported by the National Institute of Biomedical Imaging and Bioengineering of the U.S. National Institutes of Health (NIH) under award number 1R01EB034359. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
